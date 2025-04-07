@@ -10,7 +10,7 @@ pip install -r requirements.txt
 ```
 
 2. Configure environment variables:
-- Copy the `.env` file and fill in your API keys:
+- Create an `.env` file and fill in your API keys:
   - NOTION_API_KEY
   - LIMITLESS_API_KEY
   - GEMINI_API_KEY
